@@ -4,8 +4,7 @@
 
 Bugünkü çalışmada amacımız, geçen 2 haftada öğrenilen kavram ve teknikleri kullanmaktır. Şimdiye kadar, git ve JavaScript'e giriş kavramlarını kapsayan; git, değişken tanımlama, koşullar, döngüler, işlevler, diziler ve nesneler üzerine odaklandın. Bu haftaki çalışmanızda, index.js dosyasındaki görevleri tamamlayarak bu konuları ne kadar anladığınızı göstereceksin.
 
-Bu çalışma kendiniz için bireysel bir değerlendirme olacaktır. Başkalarından yardım alabilirsiniz ama en sonunda gerekli olan isterleri kendi başınıza da yapması beklenmektedir. Sprint 2 boyunca anlatılan bilgileri kullanarak yapabilirsin. Önceki projelerinizde yaptıklarınızın benzerlerini yaparak challenge'ı %100 olarak tamamlayabilirsin.
-
+Bu çalışma kendiniz için bireysel bir değerlendirme olacaktır. Başkalarından yardım alabilirsiniz ama en sonunda gerekli olan isterleri kendi başınıza da yapması beklenmektedir. Sprint 2 boyunca anlatılan bilgileri kullanarak yapabilirsin. Önceki projelerinizde yaptıklarınızın benzerlerini yaparak challenge'ı %100 olarak tamamlayabilirsin....
 
 ### Commits
 
@@ -27,8 +26,7 @@ VSCode ve Komut Satırını Kullanma:
 
 ### Görev 2: Yapılması gerekenler
 
-`index.js` dosyasını bulun ve verilen görevleri tamamlayın. 
-
+`index.js` dosyasını bulun ve verilen görevleri tamamlayın.
 
 ### Test Etme & Debug Yapma
 
@@ -38,8 +36,6 @@ Açılan ikinci terminalde `npm start` yazıp çalıştırın.
 
 Bir terminal ekranında testleri çalıştırırken bir diğerinde ise debug yapabileceksin. Kodlarınızda güncelleme yaptıkça ilerlemeyi kontrol için `console.log`u kullanın.
 
-
 ## Proje Teslim Etme Adımları
 
 Verilen görevi tamamladıktan sonra [Workintech Platformu](https://app.workintech.com.tr)'nda (app.workintech.com.tr) `Sprint 2>Gün 5`'in sonuna eklenmiş olan "` Görev: Sprint 2 Challenge projesini buraya yükle`" içeriğini açıp. GitHub hesabınızda oluşturduğunuz repo'nun adresini buraya ekleyin.
-
